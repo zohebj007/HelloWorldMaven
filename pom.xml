@@ -17,6 +17,7 @@
   </properties>
   
 <distributionManagement>
+   </repository>
     <id>releases</id>
     <!-- CHANGE HERE by your team nexus server -->
     <url>http://43.205.110.244:8081/repository/maven-releases/</url>
